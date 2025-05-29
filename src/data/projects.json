@@ -1,0 +1,18 @@
+[
+  {
+    "title": "Portfolio Website",
+    "imageSrc": "projects/project.png",
+    "description": "A personal portfolio website to showcase my work and skills.",
+    "skills": ["React", "CSS", "Node.js"],
+    "demo": "https://demo.com",
+    "source": "https://github.com/vijayasai220/vijayportfolio"
+  },
+  {
+    "title": "IQRush Quiz App",
+    "imageSrc": "projects/project.png",
+    "description": "Android app for quizzes and learning.",
+    "skills": ["Android","React Native","Javascript"],
+    "demo": "https://demo.com",
+    "source": "https://github.com/vijayasai220/IQRush"
+  }
+] 

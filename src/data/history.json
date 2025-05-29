@@ -1,0 +1,18 @@
+[
+  {
+    "role": "App Developer",
+    "organisation": "Hexart.in",
+    "startDate": "2025",
+    "endDate": "2025",
+    "imageSrc": "history/Hexart.png",
+    "experiences": ["Built food donation app","Increased donations & engagement"]
+  },
+  {
+    "role": "Machine Learning Intern",
+    "organisation": "Henotic Technologies",
+    "startDate": "2023",
+    "endDate": "2023",
+    "imageSrc": "history/henotic.png",
+    "experiences": ["Analyzed Adult Income dataset","Built income prediction models"]
+  }
+] 
